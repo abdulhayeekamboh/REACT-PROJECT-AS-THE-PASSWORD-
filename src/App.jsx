@@ -36,7 +36,7 @@ const App = () => {
     <div className="page">
       <div className="card">
         <div className="image">
-          <img src="https://images.unsplash.com/photo-1724275524667-af140d510c41?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw5fHx8ZW58MHx8fHx8" alt="" />
+          <img src="https://images.unsplash.com/photo-1723965453045-b025e5b3af13?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
         </div>
         <div className="container">
           <h1>First Enter Your Password</h1>
