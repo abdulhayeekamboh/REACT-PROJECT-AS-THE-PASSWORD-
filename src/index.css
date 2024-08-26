@@ -15,7 +15,6 @@ margin: 0;
 .card {
   height: 95%;
   width: 40%;
-  background-color: orange;
   position: relative;
   border-radius: 12px;
   align-items: center;
@@ -26,7 +25,7 @@ margin: 0;
 .image {
   height: 100%;
   width: 100%;
-  filter: blur(7px);
+  filter: blur(1px);
 }
 .container {
   height: 100%;
