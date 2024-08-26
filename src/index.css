@@ -21,6 +21,7 @@ margin: 0;
   text-align: center;
   justify-content: center;
   display: flex;
+  overflow:hidden;
 }
 .image {
   height: 100%;
@@ -35,7 +36,7 @@ margin: 0;
   text-align: center;
   justify-content: center;
   display: flex;
-  gap: 3vh;
+  gap: 5vh;
   flex-direction: column;
 }
 img {
