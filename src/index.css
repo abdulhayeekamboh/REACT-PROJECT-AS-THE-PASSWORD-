@@ -62,9 +62,13 @@ button {
   cursor: pointer;
 }
 
+
 @media (max-width:600px) {
   .page {
-    width: 200vmin;
+    height: 200vmin;
+  }
+  .card {
+    width: 90%;
   }
   
 }
