@@ -61,3 +61,10 @@ button {
   border-radius: 3px;
   cursor: pointer;
 }
+
+@media (max-width:600px) {
+  .page {
+    width: 200vmin;
+  }
+  
+}
